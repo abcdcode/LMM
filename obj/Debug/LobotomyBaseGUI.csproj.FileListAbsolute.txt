@@ -1,0 +1,69 @@
+C:\Users\dniel\Desktop\라오루 모딩\dll\LobotomyBaseGUI\bin\Debug\LobotomyBaseGUI.exe.config
+C:\Users\dniel\Desktop\라오루 모딩\dll\LobotomyBaseGUI\bin\Debug\LobotomyBaseGUI.exe
+C:\Users\dniel\Desktop\라오루 모딩\dll\LobotomyBaseGUI\bin\Debug\LobotomyBaseGUI.pdb
+C:\Users\dniel\Desktop\라오루 모딩\dll\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.AssemblyReference.cache
+C:\Users\dniel\Desktop\라오루 모딩\dll\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\dniel\Desktop\라오루 모딩\dll\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.Form1.resources
+C:\Users\dniel\Desktop\라오루 모딩\dll\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.Properties.Resources.resources
+C:\Users\dniel\Desktop\라오루 모딩\dll\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.GenerateResource.cache
+C:\Users\dniel\Desktop\라오루 모딩\dll\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.CoreCompileInputs.cache
+C:\Users\dniel\Desktop\라오루 모딩\dll\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.exe
+C:\Users\dniel\Desktop\라오루 모딩\dll\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.pdb
+C:\Users\kj022\Downloads\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.AssemblyReference.cache
+C:\Users\kj022\Downloads\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kj022\Downloads\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.Form1.resources
+C:\Users\kj022\Downloads\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.GenerateResource.cache
+C:\Users\kj022\Downloads\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.CoreCompileInputs.cache
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Mono.Cecil.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Mono.Security.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Patchwork.Engine.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Serilog.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Patchwork.Attributes.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.CopyComplete
+C:\Users\kj022\Downloads\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.Form2.resources
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\LobotomyModManager.exe.config
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\LobotomyModManager.exe
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\LobotomyModManager.pdb
+C:\Users\kj022\Downloads\LobotomyBaseGUI\obj\Debug\LobotomyModManager.Properties.Resources.resources
+C:\Users\kj022\Downloads\LobotomyBaseGUI\obj\Debug\LobotomyModManager.exe
+C:\Users\kj022\Downloads\LobotomyBaseGUI\obj\Debug\LobotomyModManager.pdb
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.Core.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.pdb
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.xml
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.Core.xml
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kj022\Downloads\LobotomyBaseGUI\bin\Debug\Facepunch.Steamworks.Win64.dll
+C:\Users\kj022\source\repos\LobotomyBaseGUI\bin\Debug\LobotomyModManager.exe.config
+C:\Users\kj022\source\repos\LobotomyBaseGUI\bin\Debug\LobotomyModManager.exe
+C:\Users\kj022\source\repos\LobotomyBaseGUI\bin\Debug\LobotomyModManager.pdb
+C:\Users\kj022\source\repos\LobotomyBaseGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kj022\source\repos\LobotomyBaseGUI\bin\Debug\Patchwork.Attributes.dll
+C:\Users\kj022\source\repos\LobotomyBaseGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.AssemblyReference.cache
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.Form1.resources
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.Form2.resources
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyModManager.Properties.Resources.resources
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.GenerateResource.cache
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.CoreCompileInputs.cache
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyBaseGUI.csproj.CopyComplete
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyModManager.exe
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyModManager.pdb
+C:\Users\kj022\source\repos\LobotomyBaseGUI\bin\Debug\LobotomyModManager.exe.manifest
+C:\Users\kj022\source\repos\LobotomyBaseGUI\bin\Debug\LobotomyModManager.application
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyModManager.TrustInfo.xml
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyModManager.exe.manifest
+C:\Users\kj022\source\repos\LobotomyBaseGUI\obj\Debug\LobotomyModManager.application
